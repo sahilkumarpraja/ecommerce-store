@@ -18,7 +18,7 @@ No backend, no database, no build step. Just open it in a browser or host it fre
 Open `config.js` and change:
 
 ```js
-whatsappNumber: "917989916069", // country code + number, digits only (91 = India)
+whatsappNumber: "91", // country code + number, digits only (91 = India)
 instagramHandle: "yourstore",   // your Instagram username, no @
 currency: "₹",
 storeName: "LuxeCart",
